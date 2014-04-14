@@ -1,5 +1,7 @@
 # constraint-validations-currency
 
+[![Build Status](https://travis-ci.org/listora/constraint-validations-currency.svg?branch=master)](https://travis-ci.org/listora/constraint-validations-currency)
+
 Adds support for validating currencies to [constraint][]
 
 ## Installation
